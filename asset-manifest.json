@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/rtodo/static/css/main.54540e03.chunk.css",
-    "main.js": "/rtodo/static/js/main.8d38f480.chunk.js",
-    "main.js.map": "/rtodo/static/js/main.8d38f480.chunk.js.map",
+    "main.js": "/rtodo/static/js/main.bf95b778.chunk.js",
+    "main.js.map": "/rtodo/static/js/main.bf95b778.chunk.js.map",
     "runtime-main.js": "/rtodo/static/js/runtime-main.7100fd89.js",
     "runtime-main.js.map": "/rtodo/static/js/runtime-main.7100fd89.js.map",
-    "static/js/2.ede2c240.chunk.js": "/rtodo/static/js/2.ede2c240.chunk.js",
-    "static/js/2.ede2c240.chunk.js.map": "/rtodo/static/js/2.ede2c240.chunk.js.map",
+    "static/js/2.eb366d4b.chunk.js": "/rtodo/static/js/2.eb366d4b.chunk.js",
+    "static/js/2.eb366d4b.chunk.js.map": "/rtodo/static/js/2.eb366d4b.chunk.js.map",
     "static/js/3.d6d53c13.chunk.js": "/rtodo/static/js/3.d6d53c13.chunk.js",
     "static/js/3.d6d53c13.chunk.js.map": "/rtodo/static/js/3.d6d53c13.chunk.js.map",
     "index.html": "/rtodo/index.html",
     "static/css/main.54540e03.chunk.css.map": "/rtodo/static/css/main.54540e03.chunk.css.map",
-    "static/js/2.ede2c240.chunk.js.LICENSE.txt": "/rtodo/static/js/2.ede2c240.chunk.js.LICENSE.txt",
+    "static/js/2.eb366d4b.chunk.js.LICENSE.txt": "/rtodo/static/js/2.eb366d4b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/rtodo/static/media/icon-check.a8fb15d0.svg",
     "static/media/icon-cross.6ee81d30.svg": "/rtodo/static/media/icon-cross.6ee81d30.svg",
     "static/media/icon-sun.910b1f9a.svg": "/rtodo/static/media/icon-sun.910b1f9a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7100fd89.js",
-    "static/js/2.ede2c240.chunk.js",
+    "static/js/2.eb366d4b.chunk.js",
     "static/css/main.54540e03.chunk.css",
-    "static/js/main.8d38f480.chunk.js"
+    "static/js/main.bf95b778.chunk.js"
   ]
 }

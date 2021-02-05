@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/rtodo/static/css/main.dc62a8a7.chunk.css",
-    "main.js": "/rtodo/static/js/main.e59bce6e.chunk.js",
-    "main.js.map": "/rtodo/static/js/main.e59bce6e.chunk.js.map",
+    "main.css": "/rtodo/static/css/main.246f5fc3.chunk.css",
+    "main.js": "/rtodo/static/js/main.da536afe.chunk.js",
+    "main.js.map": "/rtodo/static/js/main.da536afe.chunk.js.map",
     "runtime-main.js": "/rtodo/static/js/runtime-main.7100fd89.js",
     "runtime-main.js.map": "/rtodo/static/js/runtime-main.7100fd89.js.map",
     "static/js/2.eb366d4b.chunk.js": "/rtodo/static/js/2.eb366d4b.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.d6d53c13.chunk.js": "/rtodo/static/js/3.d6d53c13.chunk.js",
     "static/js/3.d6d53c13.chunk.js.map": "/rtodo/static/js/3.d6d53c13.chunk.js.map",
     "index.html": "/rtodo/index.html",
-    "static/css/main.dc62a8a7.chunk.css.map": "/rtodo/static/css/main.dc62a8a7.chunk.css.map",
+    "static/css/main.246f5fc3.chunk.css.map": "/rtodo/static/css/main.246f5fc3.chunk.css.map",
     "static/js/2.eb366d4b.chunk.js.LICENSE.txt": "/rtodo/static/js/2.eb366d4b.chunk.js.LICENSE.txt",
     "static/media/bg-desktop-light.3508d620.jpg": "/rtodo/static/media/bg-desktop-light.3508d620.jpg",
     "static/media/App.css": "/rtodo/static/media/icon-check.a8fb15d0.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.7100fd89.js",
     "static/js/2.eb366d4b.chunk.js",
-    "static/css/main.dc62a8a7.chunk.css",
-    "static/js/main.e59bce6e.chunk.js"
+    "static/css/main.246f5fc3.chunk.css",
+    "static/js/main.da536afe.chunk.js"
   ]
 }

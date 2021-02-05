@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/rtodo/static/css/main.9119a181.chunk.css",
-    "main.js": "/rtodo/static/js/main.e1456b92.chunk.js",
-    "main.js.map": "/rtodo/static/js/main.e1456b92.chunk.js.map",
+    "main.css": "/rtodo/static/css/main.3061dd6d.chunk.css",
+    "main.js": "/rtodo/static/js/main.2a1c1f93.chunk.js",
+    "main.js.map": "/rtodo/static/js/main.2a1c1f93.chunk.js.map",
     "runtime-main.js": "/rtodo/static/js/runtime-main.7100fd89.js",
     "runtime-main.js.map": "/rtodo/static/js/runtime-main.7100fd89.js.map",
     "static/js/2.eb366d4b.chunk.js": "/rtodo/static/js/2.eb366d4b.chunk.js",
@@ -10,17 +10,17 @@
     "static/js/3.d6d53c13.chunk.js": "/rtodo/static/js/3.d6d53c13.chunk.js",
     "static/js/3.d6d53c13.chunk.js.map": "/rtodo/static/js/3.d6d53c13.chunk.js.map",
     "index.html": "/rtodo/index.html",
-    "static/css/main.9119a181.chunk.css.map": "/rtodo/static/css/main.9119a181.chunk.css.map",
+    "static/css/main.3061dd6d.chunk.css.map": "/rtodo/static/css/main.3061dd6d.chunk.css.map",
     "static/js/2.eb366d4b.chunk.js.LICENSE.txt": "/rtodo/static/js/2.eb366d4b.chunk.js.LICENSE.txt",
+    "static/media/bg-desktop-light.3508d620.jpg": "/rtodo/static/media/bg-desktop-light.3508d620.jpg",
     "static/media/App.css": "/rtodo/static/media/icon-check.a8fb15d0.svg",
     "static/media/icon-cross.6ee81d30.svg": "/rtodo/static/media/icon-cross.6ee81d30.svg",
-    "static/media/icon-edit.5dfe408c.svg": "/rtodo/static/media/icon-edit.5dfe408c.svg",
     "static/media/icon-sun.910b1f9a.svg": "/rtodo/static/media/icon-sun.910b1f9a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7100fd89.js",
     "static/js/2.eb366d4b.chunk.js",
-    "static/css/main.9119a181.chunk.css",
-    "static/js/main.e1456b92.chunk.js"
+    "static/css/main.3061dd6d.chunk.css",
+    "static/js/main.2a1c1f93.chunk.js"
   ]
 }
